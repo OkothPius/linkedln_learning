@@ -59,5 +59,5 @@ def main():
   print ("%d meta tags encountered" % metacount)
 
 if __name__ == "__main__":
-  main();
+  main()
   
